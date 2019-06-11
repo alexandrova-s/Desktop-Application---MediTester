@@ -1,0 +1,634 @@
+2019-06-04 23:57:08 ERROR DbConnection:28 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-04 23:58:21 ERROR DbConnection:28 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-05 00:01:48 ERROR DbConnection:28 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-05 11:05:34 ERROR DbConnection:28 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-05 11:05:41 ERROR DbConnection:28 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-07 20:27:51 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-07 20:35:29 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-07 21:22:18 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-07 21:23:15 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 00:43:02 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 00:43:56 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 02:09:53 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 02:11:43 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 02:13:23 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 02:25:31 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 02:27:33 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 02:31:56 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 13:01:41 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 13:03:39 ERROR PatientRepositoryImpl:36 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 19:51:51 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 19:52:30 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 19:53:58 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:00:36 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:03:24 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:04:58 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:16:12 ERROR EffectRepositoryImpl:34 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:18:27 ERROR EffectRepositoryImpl:34 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:39:56 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 20:41:41 ERROR DoseRepositoryImpl:35 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:09:26 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:09:26 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 21:09:26 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:09:26 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 21:11:15 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:11:15 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 21:11:15 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:11:15 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 21:11:40 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:11:40 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 21:11:40 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:11:40 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 21:16:15 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:16:15 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 21:16:15 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 21:16:15 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:49:25 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:49:25 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:49:25 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:49:25 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:50:18 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:50:18 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:50:18 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:50:18 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:50:44 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:50:44 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:50:44 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:50:44 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:51:36 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:51:36 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:51:36 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:51:36 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:52:53 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:52:53 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:52:53 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:52:53 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:53:58 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:53:58 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:53:58 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:53:58 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 22:59:42 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:59:42 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 22:59:42 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 22:59:42 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 23:00:26 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 23:00:26 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 23:00:26 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 23:00:26 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 23:05:47 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 23:05:47 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 23:05:47 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 23:05:47 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 23:06:39 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 23:06:39 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-08 23:06:39 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-08 23:06:39 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-08 23:17:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:17:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:17:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:17:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:17:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:18:14 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:20:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:21:08 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-08 23:21:11 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 01:32:58 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 01:32:58 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-09 01:48:57 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 01:48:57 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 02:06:40 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 02:06:40 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-09 02:06:40 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 02:06:40 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-09 02:06:59 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 02:06:59 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 02:07:59 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 02:07:59 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-09 02:14:01 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 02:14:01 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-09 12:29:27 ERROR DoseRepositoryImpl:177 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 12:29:27 INFO  DoseRepositoryImpl:191 - Zbior pusty
+2019-06-09 12:29:27 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 12:29:27 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-09 12:32:58 ERROR EffectRepositoryImpl:176 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 12:32:58 INFO  EffectRepositoryImpl:190 - Zbior pusty
+2019-06-09 12:37:53 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 12:37:53 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 12:52:10 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 12:55:45 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 14:20:54 ERROR DoseRepositoryImpl:224 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 14:20:54 INFO  DoseRepositoryImpl:238 - Zbior pusty
+2019-06-09 14:22:05 ERROR DoseRepositoryImpl:224 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 14:22:05 INFO  DoseRepositoryImpl:238 - Zbior pusty
+2019-06-09 14:22:25 ERROR DoseRepositoryImpl:224 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 14:22:25 INFO  DoseRepositoryImpl:238 - Zbior pusty
+2019-06-09 15:40:01 ERROR DoseRepositoryImpl:271 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 15:40:01 INFO  DoseRepositoryImpl:285 - Zbior pusty
+2019-06-09 16:23:22 ERROR DoseRepositoryImpl:271 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 16:23:22 INFO  DoseRepositoryImpl:285 - Zbior pusty
+2019-06-09 16:25:24 ERROR DoseRepositoryImpl:271 - ERROR MESSAGE - BRAK POLACZENIA Z BAZA DANYCH
+2019-06-09 16:25:24 INFO  DoseRepositoryImpl:285 - Zbior pusty
+2019-06-09 19:03:08 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 19:03:14 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 19:03:19 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 19:04:31 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 19:08:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:09:54 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:09:55 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 19:09:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:30:14 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:37:00 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:37:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:49:06 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:25 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:50:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:51:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:51:03 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:52:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:52:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:57:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:57:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:57:55 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 19:57:55 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:11 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:41 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:07:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:08:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:08:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:08:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:08:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:08:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:09:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:09:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:09:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:09:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:09:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:11:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:11:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:11:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:11:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:11:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:12:59 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:12:59 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:13:00 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:13:00 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:13:00 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:13:00 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:15:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:20:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:20:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:20:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:21:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:22:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:22:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:22:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:22:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:22:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:22:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:23:25 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:23:26 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:25:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:26 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:26 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:28 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:36 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:36 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:36 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:36 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:36 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:36 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:26:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:07 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:07 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:30:07 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:32:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:33:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:35:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:35:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:35:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:40:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:40:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:40:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:40:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:40:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:40:11 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:25 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:25 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:41:25 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:46:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:46:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:46:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:49:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:49:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:51:09 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:51:09 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:54:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:54:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:54:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:57:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:57:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:57:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:57:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:59:03 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 21:59:03 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:07:58 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:07:58 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:07:58 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:07:58 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:07:58 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:07:59 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:08:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:08:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:08:02 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:28:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:28:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:28:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:28:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:28:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:28:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:29:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:29:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:29:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:29:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:29:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:29:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:30:54 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:30:59 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:31:03 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:31:03 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:31:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:31:56 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:01 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:32:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:36:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:14 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:14 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:46:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:18 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:23 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:33 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:35 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:35 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:37 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:37 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:38 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:42 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:44 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:46 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:47 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:49 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:50 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:50 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:51 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:52 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:52 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:53 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:53 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:53 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:53 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:53 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:53 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:54 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:54 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:54 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:57 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:57 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:57 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:57 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:57 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:57 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:58 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:58 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:47:59 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:47:59 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:48:03 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:03 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:48:04 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:04 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:48:08 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:08 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:08 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:08 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:08 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:08 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:48:09 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:48:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:10 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:13 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:15 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:16 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:17 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:19 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:20 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:22 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:23 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:24 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:25 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:27 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:29 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:31 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:32 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:38 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:40 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:41 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:41 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:41 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:42 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:43 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:44 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:45 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:46 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:49 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:51 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:59 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:48:59 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:49:10 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:49:10 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:49:12 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:49:12 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:49:47 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:49:47 INFO  PatientRepositoryImpl:152 - Zbior pusty
+2019-06-09 22:49:48 INFO  DoctorRepositoryImpl:142 - Zbior pusty
+2019-06-09 22:49:48 INFO  PatientRepositoryImpl:152 - Zbior pusty
