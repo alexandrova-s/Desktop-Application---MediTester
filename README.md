@@ -1,5 +1,6 @@
-## Aplikacja Desktopowa - Oprogramowanie wspomagajace prowadzenie testow klinicznych lekow ##
+## Desktop Application - Software supporting clinical drug tests ##
+# Aplikacja Desktopowa - Oprogramowanie wspomagajace prowadzenie testow klinicznych lekow #
 
-**Biblioteki:** jdatepicker-1.3.4, jcalendar-1.4
+**Libraries/Biblioteki:** jdatepicker-1.3.4, jcalendar-1.4
 
-**Środowisko:** IntelliJ IDEA
+**Environment/Środowisko:** IntelliJ IDEA
